@@ -25,7 +25,7 @@ __packages__ = [
 __supported__ = [
 	'gnome',
 	'kde',
-	'pantheon'
+	'pantheon',
 	'awesome',
 	'sway',
 	'cinnamon',
