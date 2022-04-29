@@ -33,6 +33,7 @@ __supported__ = [
 	'budgie',
 	'mate',
 	'deepin',
+	'ukui',
 	'enlightenment',
 	'qtile'
 ]
