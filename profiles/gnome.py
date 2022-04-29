@@ -9,7 +9,7 @@ __packages__ = [
 	"gnome --ignore epiphany",
 	"dconf-editor",
 	"noto-fonts",
-	'ntfs-3g';
+	'ntfs-3g',
 	"gdm",
 	"gnome-software-packagekit-plugin",
 ]
