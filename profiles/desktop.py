@@ -12,7 +12,7 @@ __packages__ = [
 	'flatpak',
 	'openssh',
 	'git',
-	'usb-modeswitch',
+	'usb_modeswitch',
 	'networkmanager-openconnect',
 	'wget',
 	'iwd',
