@@ -6,8 +6,10 @@ is_top_level_profile = False
 
 # Note: GDM should be part of the gnome group, but adding it here for clarity
 __packages__ = [
-	"gnome",
-	"gnome-tweaks",
+	"gnome --ignore epiphany",
+	"dconf-editor",
+	"noto-fonts",
+	'ntfs-3g';
 	"gdm",
 	"gnome-software-packagekit-plugin",
 ]

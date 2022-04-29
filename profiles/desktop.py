@@ -9,9 +9,11 @@ __description__ = 'Provides a selection of desktop environments and tiling windo
 # of the profile to get a list of "what packages will be installed".
 __packages__ = [
 	'nano',
-	'vim',
+	'flatpak',
 	'openssh',
-	'htop',
+	'git',
+	'usb-modeswitch',
+	'networkmanager-openconnect',
 	'wget',
 	'iwd',
 	'wireless_tools',
